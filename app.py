@@ -22,7 +22,7 @@ mydata = go.Pie(
     sort=False,
     values=myvalues,
     labels=mylabels,
-    marker={'colors': [color1, color2, color3, corlor4],
+    marker={'colors': [color1, color2, color3, color4],
             'line': {'color': 'yellow', 'width': 5}}
 )
 mylayout = go.Layout(
